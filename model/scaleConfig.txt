@@ -1,0 +1,8 @@
+Pregnancies,17.0,0.0
+Glucose,199.0,0.0
+BloodPressure,122.0,0.0
+SkinThickness,99.0,0.0
+Insulin,846.0,0.0
+BMI,67.1,0.0
+DiabetesPedigreeFunction,2.42,0.078
+Age,81.0,21.0
